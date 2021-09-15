@@ -1,0 +1,7 @@
+print("Hello, World!")
+print("My name is Dell Optiplex 3020, but you can call me Dell")
+print("My human overlord is named Wesley")
+print("He is 18 years old, I am older")
+print("Light Blue is his favourite color")
+print("Wesley is pleased to make your acquatance!")
+print("Goodbye, Friend")
